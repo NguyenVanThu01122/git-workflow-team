@@ -1,7 +1,7 @@
-function Register() {
-  return (
-    <div>
-      <h1>Register</h1>
-    </div>
-  );
-}
+console.log("a1")
+console.log("a2")
+console.log("a3")
+console.log("a4")
+console.log("a5")
+console.log("a6")
+console.log("a7")
